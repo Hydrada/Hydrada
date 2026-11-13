@@ -7,6 +7,8 @@ Self-taught full-stack developer in **Framingham, MA** (Eastern time), building 
 #### Portfolio
 - Site: [hydrafoundry.dev](https://hydrafoundry.dev)
 - Mods: [CurseForge — Hydrada](https://www.curseforge.com/members/hydrada/projects) (Subnautica 2, Hytale, RuneScape: Dragonwilds)
+- Shop: [Gumroad](https://reapz1.gumroad.com/) (Obsidian vaults, Excel hydrant flow-test calculator)
+- Community: [Hydra Foundry Discord](https://discord.gg/xjfRCGfRGM)
 
 #### Products
 | Product | Status | What it is |
