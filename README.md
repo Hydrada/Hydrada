@@ -21,6 +21,7 @@ Self-taught full-stack developer in **Framingham, MA** (Eastern time), building 
 #### Featured public work
 | Project | Stack | What it is |
 | --- | --- | --- |
+| [OpenBuild](https://github.com/Hydrada/OpenBuild) | TypeScript, Fastify, PostgreSQL | Open-source, self-hostable construction project management: drawings, RFIs, submittals, field logs, budgets and pay apps (v0.2.0 pre-release) |
 | [OpenDraft](https://github.com/Hydrada/OpenDraft) | Electron, TypeScript | Free, MIT-licensed PDF markup, measurement and takeoff for construction drawings (v0.1.1 test release) |
 | [Hydra-Video-Harness](https://github.com/Hydrada/Hydra-Video-Harness) | Electron, Node, Android | AI video job queue with live progress + companion app |
 | [Mosaic-Files](https://github.com/Hydrada/Mosaic-Files) | .NET 8 / WinUI 3 | Windows file manager with fast search + WSL/Docker browsing |
